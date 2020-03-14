@@ -1,5 +1,6 @@
 Tensroflow练习
 ======
+搜集来的众多资料，怕丢...，一起学习
 
 相关数据集下载地址：链接:https://pan.baidu.com/s/1GMv7_3qruoVZBJMvN-afGA  密码:ako7
 基于tf1.4
